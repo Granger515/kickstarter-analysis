@@ -27,6 +27,11 @@ Outcomes were influenced by fundraising goals. Lower goals generally were more s
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/114311015/197313258-b081c13c-f91f-497e-aefe-17b3b0d9c432.png)
 
-##Conclusions
+##Conclusions and Limitations
+###Limitations
 
-Overall, the data set was sparse regarding fundraising for plays at higher fundraising goals. A dataset with a greater sample of Kickstarter campaigns at higher levels would be useful in determining the value, or lack of value, of larger campaigns in this area. It would also be worth exploring the average donation size broken down by fundraiser goal. It may be that a few larger donations are driving the success of different sizes of campaigns. On could easily envision smaller campaigns allowing a sense of ownership which drives more smaller donations, a few larger donations completely funding smaller campaigns, or even larger campaign success rates being driven exclusively by the ability to attract large donations.
+Overall, the data set was sparse regarding fundraising for plays at higher fundraising goals. A dataset with a greater sample of Kickstarter campaigns at higher levels would be useful in determining the value, or lack of value, of larger campaigns in this area. It would also be worth exploring the average donation size broken down by fundraiser goal. It may be that a few larger donations are driving the success of different sizes of campaigns. On could easily envision smaller campaigns allowing a sense of ownership which drives more smaller donations, a few larger donations completely funding smaller campaigns, or even larger campaign success rates being driven exclusively by the ability to attract large donations.There is not a large enough ssample to explore this regarding higher goals so coparison is speculative at best.
+
+###Conclusions
+
+The Kickstarter campaign is likely to be sucessful if limited to a reasonable, under $15,000, goal. The starting month of the fundraiser is unliley to matter as long as it is not Decemebr or October.
